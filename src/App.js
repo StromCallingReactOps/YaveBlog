@@ -5,9 +5,12 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
+        <headline>Yave Study Blog</headline>
+        <menuline>Blog Cluture OpenSource Careers</menuline>
+        <banerline>Yave Tech</banerline>
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.js</code> and save to reload.
+          Clone <code>src/App.js</code> and save to reload.
         </p>
         <a
           className="App-link"
